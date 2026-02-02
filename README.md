@@ -1,0 +1,2 @@
+# Predictive_Analytics_for_Student_Academic_Performance
+Machine Learning project using Logistic Regression to predict student performance.
